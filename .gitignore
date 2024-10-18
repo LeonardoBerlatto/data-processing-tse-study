@@ -16,6 +16,9 @@
 # C extensions
 *.so
 
+# Datasets
+datasets/
+
 # Distribution / packaging
 .Python
 build/

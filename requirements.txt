@@ -3,7 +3,5 @@ numpy
 pandas
 matplotlib
 seaborn
-os
-zipfile
 bs4
 requests

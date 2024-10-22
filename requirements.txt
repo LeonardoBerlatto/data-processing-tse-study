@@ -7,3 +7,5 @@ bs4
 requests
 pyarrow
 fastparquet
+duckdb
+dask
